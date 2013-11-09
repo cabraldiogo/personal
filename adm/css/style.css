@@ -2,3 +2,62 @@ body {
 	background-color: silver;
 
 }
+
+#org {
+	border: 2px solid #ff4900;
+	height:700px; 
+	width:900px;
+	margin: auto;
+	margin-top: 40px;
+}
+
+#header-nav{
+	margin: 0 auto;
+	background-color: #ff7640;
+	color: silver;
+	width: 960px;
+    height: 50px;
+    line-height:50px;
+    font-size: 16px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 6px;
+}
+
+#header-nav a{
+	color: white;
+	text-decoration: none;
+	word-spacing: 40px;
+}
+
+#nav-items{
+	display: inline;
+	word-spacing: 60px;
+	
+}
+
+#header-nav li{
+	display: inline;
+	color: white;
+	opacity: 0.9;
+	text-decoration: none;
+	font-size: 1.25em;
+	letter-spacing: 0.1em;
+}
+
+#videos {
+	width: 561px;
+	height: auto;
+	margin: auto;
+	
+	
+
+}
+
+#youtube{
+	border: 1px solid #ff7640;
+	margin: 10px;
+	
+}
+
